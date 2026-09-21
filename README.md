@@ -24,7 +24,7 @@ Also: Git, VS Code, Obsidian, Vercel
 
 ### Where this is going
 
-Studying for the eJPT right now, looking for a summer internship in offensive security — web and network pentesting, ideally somewhere small enough to actually get a mentor.
+Studying for the eJPT right now, looking for a summer internship in offensive security — web and network pentesting.
 
 Long term: my own security consulting business.
 
